@@ -1,0 +1,7 @@
+bin\Debug\MoveWindow.exe
+bin\Debug\MoveWindow.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MoveWindow.Form1.resources
+obj\Debug\MoveWindow.csproj.GenerateResource.Cache
+obj\Debug\MoveWindow.exe
+obj\Debug\MoveWindow.pdb

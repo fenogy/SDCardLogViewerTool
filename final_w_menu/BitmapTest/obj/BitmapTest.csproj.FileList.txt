@@ -1,0 +1,8 @@
+bin\Debug\BitmapTest.exe
+bin\Debug\BitmapTest.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BitmapTest.Form1.resources
+obj\Debug\BitmapTest.Properties.Resources.resources
+obj\Debug\BitmapTest.csproj.GenerateResource.Cache
+obj\Debug\BitmapTest.exe
+obj\Debug\BitmapTest.pdb
